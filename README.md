@@ -7,12 +7,6 @@
 This Roulette Game is a part of Casino Game.
 This was my personal, and this should be a stand alone version.
 
-Complete project can be found at:
-
-[Github repository](https://github.com/wonderguy88/web-game-super)
-
-[Vercel deployed demo](https://react-roulette-inky.vercel.app/)
-
 ### Technologies used
 
 - JavaScript / HTML5 / CSS3
